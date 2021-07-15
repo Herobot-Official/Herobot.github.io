@@ -1,8 +1,45 @@
-body{
-margin: 0;
-background: yellow;
-text-align: center;
+.topic {
+				text-align: center;
+				color: #556dff;
+				border: solid #556dff 7px;
+				border-radius: 10px;
+}
+.mainbutton {
+				border-radius: 10px;
+				padding: 10px;
+				font-size: 20px;
+				display: box;
+}
+.discord {
+				background-color: #4740ff;
+				border-color: #4740ff;
+}
+.buttonimage {
+    height: 20px;
+    width: 20px;
+}
+body {
+				background-color: #ffbd40;
+}
+button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
 
+button:hover {background-color: #3e8e41}
 
-
+button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
 }
