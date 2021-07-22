@@ -6,11 +6,15 @@
 }
 
 .mainbutton {
-    border-radius: 10px;
-    padding: 10px;
-    font-size: 20px;
-    display: box;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 20px;
+  display: box;
 }
+
+.backbutton {
+  border-radius: 5px;
+  
 
 .discord {
   background-color: #4740ff;
@@ -42,7 +46,7 @@ button {
 }
 
 button:hover {
-  background-color: #3e8e41
+  opacity: 0.4;
 }
 
 button:active {
