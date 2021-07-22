@@ -46,7 +46,7 @@ button {
 }
 
 button:hover {
-  opacity: 0.4;
+  brightness: 0.4;
 }
 
 button:active {
