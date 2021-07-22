@@ -1,26 +1,31 @@
 .topic {
-				text-align: center;
-				color: #556dff;
-				border: solid #556dff 7px;
-				border-radius: 10px;
+  text-align: center;
+  color: #556dff;
+  border: solid #556dff 7px;
+  border-radius: 10px;
 }
+
 .mainbutton {
-				border-radius: 10px;
-				padding: 10px;
-				font-size: 20px;
-				display: box;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+    display: box;
 }
+
 .discord {
-				background-color: #4740ff;
-				border-color: #4740ff;
+  background-color: #4740ff;
+  border-color: #4740ff;
 }
+
 .buttonimage {
-    height: 20px;
-    width: 20px;
+  height: 20px;
+  width: 20px;
 }
+
 body {
-				background-color: #ffbd40;
+  background-color: #ffbd40;
 }
+
 button {
   display: inline-block;
   padding: 15px 25px;
@@ -36,7 +41,9 @@ button {
   box-shadow: 0 9px #999;
 }
 
-button:hover {background-color: #3e8e41}
+button:hover {
+  background-color: #3e8e41
+}
 
 button:active {
   background-color: #3e8e41;
@@ -44,11 +51,12 @@ button:active {
   transform: translateY(4px);
 }
 .topic {
-				text-align: center;
-				color: #556dff;
-				border: solid #556dff 7px;
-				border-radius: 10px;
+  text-align: center;
+  color: #556dff;
+  border: solid #556dff 7px;
+  border-radius: 10px;
 }
+
 .backbutton {
-				border-radius: 10px;
+  border-radius: 10px;
 }
